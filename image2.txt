@@ -1,4 +1,4 @@
 <first>
 {
-image-url: https://tenor.com/view/ricardo-milos-ricardo-milos-gif-13248430;
+image-url: https://cdn.discordapp.com/attachments/495625619699138566/620244752209674240/4950_original.png;
 }
