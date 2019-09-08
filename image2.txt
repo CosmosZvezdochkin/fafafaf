@@ -1,0 +1,4 @@
+<first>
+{
+image-url: https://tenor.com/view/ricardo-milos-ricardo-milos-gif-13248430;
+}
