@@ -1,0 +1,4 @@
+<first>
+{
+image-url: https://cdn.discordapp.com/attachments/597766222313947166/620604920009326603/tipichnyy-igrok-kisekae_39280093_orig_.png;
+}
