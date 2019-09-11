@@ -1,0 +1,4 @@
+<first>
+{
+image-url: https://cdn.discordapp.com/attachments/597766222313947166/621380678503759872/AGF-l78r2Uagh6oIR4nIi-QjpsgXXMSocJ65IMCaXQs900-c-k-c0xffffffff-no-rj-mo.png;
+}
